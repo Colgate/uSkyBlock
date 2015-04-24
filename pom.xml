@@ -84,7 +84,7 @@
     <dependency> <!-- Vault implementation -->
       <groupId>net.milkbowl.vault</groupId>
       <artifactId>VaultAPI</artifactId>
-      <version>1.4</version>
+      <version>1.5</version>
       <scope>compile</scope>
       <type>jar</type>
     </dependency>
